@@ -1,6 +1,7 @@
 ## Hello World 👋
 
 I'm Connie, a 16 year old developer with a passion for web, app and game development. 
+- View my full portfolio <a href="https://conniepocky.github.io/">here</a> :)
 
 ## Languages/tools I use
 
