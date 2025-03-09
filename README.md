@@ -1,5 +1,10 @@
 ## Hello World 👋
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,swift,clojure,unity,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,vim" />
+</p>
+
 <!--
 **conniepocky/conniepocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
