@@ -1,7 +1,11 @@
 ## Hello World 👋
 
+I'm Connie, a 16 year old developer with a passion for web, app and game development. 
+
+# Languages/tools I use
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,swift,clojure,unity,cs" />
+  <img src="https://skillicons.dev/icons?i=java,swift,python,clojure,unity,cs" />
   <img src="https://skillicons.dev/icons?i=html,css,vim" />
 </p>
 
