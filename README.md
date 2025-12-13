@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm Connie, a 16 year old developer with a passion for web, app and game development. 
+I'm Connie, a 17 year old developer with a passion for web, app and game development. 
 - 🔭 View my full portfolio <a href="https://conniepocky.github.io/">here</a> :)
 - 📫 Reach me via <a href="https://x.com/connie_coding">twitter</a>, or email <b>cpa.dev.contact@gmail.com</b>.
 
