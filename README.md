@@ -1,4 +1,4 @@
-## Hello World 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+page!)](https://git.io/typing-svg)
 
 I'm Connie, a 17 year old developer with a passion for web, app and game development. 
 - 🔭 View my full portfolio <a href="https://conniepocky.github.io/">here</a> :)
@@ -19,8 +19,6 @@ I'm Connie, a 17 year old developer with a passion for web, app and game develop
   <!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=conniepocky&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="conniepocky's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=conniepocky&theme=transparent&count_private=true&border_radius=10&locale=en" alt="conniepocky's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=conniepocky&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="conniepocky's Most Used Languages" /> -->
-  ![Visitor Count](https : //profile-counter.glitch.me/conniepocky/count.svg)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conniepocky)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <hr>
