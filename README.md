@@ -16,7 +16,7 @@ I'm Connie, a 17 year old developer with a passion for web, app and game develop
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats-psi-topaz-41.vercel.app/api/top-langs/?username=conniepocky&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,cider&theme=radical" align="top" alt="Top Langs"/>
+    <img src="https://github-readme-stats-psi-topaz-41.vercel.app/api/top-langs/?username=conniepocky&size_weight=0.5&count_weight=0.5&theme=radical" align="top" alt="Top Langs"/>
     <img src="https://github-readme-stats-psi-topaz-41.vercel.app/api?username=conniepocky&show_icons=true&theme=radical" align="top" alt="GitHub stats" />
 </p>
 
