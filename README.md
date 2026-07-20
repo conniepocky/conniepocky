@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+my+page!)](https://git.io/typing-svg)
 
-I'm Connie, a 17 year old developer with a passion for web, app and game development. 
+I'm Connie, an 18 year old developer with a passion for web, app and game development. 
 - 🔭 View my full portfolio <a href="https://conniepocky.github.io/">here</a> :)
 - 📫 Reach me via <a href="https://x.com/connie_coding">twitter</a>, or email <b>cpa.dev.contact@gmail.com</b>.
 
